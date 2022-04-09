@@ -3,7 +3,7 @@
     "csvtojson": "^2.0.10",
     "dotenv": "^8.2.0",
     "massive": "^6.1.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "puppeteer": "^2.1.0"
   },
   "version": "0.0.0"
